@@ -1,7 +1,7 @@
 const geo = [{ "code": "vn", "lat": -20.329960051392728, "lon": -44.13147749973188 }];
 
 var room = HBInit({
-	roomName: "sᴏᴍᴏs ᴄᴏᴍᴜɴɪsᴛᴀs ᴇ ᴏᴅɪᴀᴍᴏs ɴᴇɢʀᴏs",
+	roomName: "ᴛʜᴇ ʙɪ́ʙʟɪᴀ ʙᴏʏs ᴀʀᴇ ʙᴀᴄᴋ",
 	maxPlayers: 16,
 	noPlayer: true, // Remove host player (recommended!)
     public: true,
