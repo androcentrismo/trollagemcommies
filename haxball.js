@@ -1,7 +1,7 @@
 const geo = [{ "code": "vn", "lat": -23.479819641631053, "lon": -46.700024923579946}];
 
 var room = HBInit({
-	roomName: "𝐓𝐎𝐃𝐎𝐒 𝐉𝐎𝐆𝐀𝐌 | 𝐎𝐃𝐈𝐀𝐌𝐎𝐒 𝐍𝐄𝐆𝐑𝐎𝐒",
+	roomName: "𝐓𝐎𝐃𝐎𝐒 𝐉𝐎𝐆𝐀𝐌 | 𝐏𝐑𝐄𝐓𝐎𝐒 𝐅𝐄𝐃𝐄𝐌",
 	maxPlayers: 16,
 	noPlayer: true, // Remove host player (recommended!)
     public: true,
