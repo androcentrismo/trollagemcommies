@@ -1,8 +1,8 @@
 const geo = [{ "code": "vn", "lat": -23.384869630861022, "lon": -46.62154733653317}];
 
 var room = HBInit({
-	roomName: "‎ ‎ ‎ 𝐅𝐔𝐓 𝐑𝐔𝐀 ‎ ‎ ‎ | PRETOS FEDEM",
-	maxPlayers: 16,
+	roomName: "☭ ‎ NEGROS TÊM QI BAIXO ‎ ☭",
+	maxPlayers: 30,
 	noPlayer: true, // Remove host player (recommended!)
     public: true,
     password: 'pretapretona11',
